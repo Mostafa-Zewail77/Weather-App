@@ -7,4 +7,4 @@ A web application that provides users with up-to-date weather information for an
 - JavaScript
 - OpenWeatherMap API
 
-# <a href= "https://mostafa-zewail77.github.io/Weather-App/">Live demo</a>
+# <a href= "https://mostafa-zewail77.github.io/Weather-App/">Live Demo</a>
